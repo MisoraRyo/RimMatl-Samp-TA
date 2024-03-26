@@ -24,5 +24,3 @@ npm run dev
 ## Resource
 
 Three.js
-
-TextAlive.api
