@@ -1,0 +1,14 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	overscroll-behavior: none;
+	overflow: hidden;
+}
+canvas{
+	vertical-align: bottom;
+	user-select: none;
+	-webkit-touch-callout:none;
+	-webkit-user-select:none;
+}
+canvas:focus {outline: none;}
+canvas::selection{background-color:transparent}
