@@ -4,6 +4,8 @@
 
 RimEffect Materialのサンプルサイトです。
 
+This is a sample site of RimEffect Material.
+
 ## Demo
 
 https://misora.main.jp/ea4azmyb/rimmaterial/
