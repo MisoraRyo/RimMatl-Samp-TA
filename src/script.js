@@ -67,7 +67,6 @@ Object.assign(stats.dom.style, {'position': 'fixed','height': 'max-content',
 /////////////////////////////////////////////////////////////////////////
 ///// CAMERAS CONFIG
 const camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 1, 1000)
-
 camera.position.set(3.0, 5.0, 5.0);
 scene.add(camera)
 
@@ -117,7 +116,6 @@ scene.add( torusKnot );
 const clock = new THREE.Clock();
 
 function renderLoop() {
-
     stats.begin();//stats計測
     //const delta = clock.getDelta();//animation programs
     //const elapsedTime = clock.getElapsedTime();
