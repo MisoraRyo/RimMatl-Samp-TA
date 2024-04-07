@@ -1,4 +1,4 @@
-# RimMaterial-TextaAlive-
+# RimMaterial
 
 <img src="./static/image.png" width="100%"/>
 
